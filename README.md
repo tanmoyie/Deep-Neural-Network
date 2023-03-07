@@ -12,3 +12,5 @@ to predict damage and oil outflow in tanker collision accidents
 
 ## Result
 The proposed DNN is highly accurate and computationally efficient.
+
+![JP1 workflow](https://user-images.githubusercontent.com/19787712/223287483-1459694c-31a6-49da-ba3d-4d7a1e4c926c.png)
